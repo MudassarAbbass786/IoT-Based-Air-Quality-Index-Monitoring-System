@@ -15,16 +15,15 @@ Project Overview:
 Since better air quality is very much important for healthy environment. Therefore, to control the air pollution an accurate monitoring of the air quality is very much important. So, a good air quality monitoring system can help us to aware the public as well as can give recommendations to the policy makers to provide guidelines to industrialists and to the public. The proposed project “Real Time IoT Based Air Quality Monitoring System” is just about the analysis of air quality on the basis of the data acquired by the help of different gas, particulate matter, humidity and temperature sensors. The sensors will be interfaced with the microcontroller to achieve the data of some dangerous air pollutants like Carbon Monoxide(CO), Carbon Dioxide(CO2), Nitrogen Dioxide(NO2), Sulphur Dioxide(SO2) and Particulate Matter(PM) along with Humidity and Temperature in the air.The proposed project aims to collect data through various sensors, process the data using Arduino based microcontroller (Arduino MKR WAN 1310), then acquired information is transmitted to IoT enabled ThingSpeak Wi-Fi protocol. In the cloud, the data is processed to provide information of the overall air quality in terms of the concentration of the impurities and the humidity along with temperature. Finally, air quality information is shared and analysed on smartphone/web using IoT based ThingSpeak platform. The system acquires data through Gas sensors (MG811, MQ-7, 2SH12, MICS-6814), Temperature and Humidity sensor (SHT11 or DHT22) and also the sensor (SDS011 or PMS5003) can be used to detect the particulate matter PM1.0, PM2.5, PM10 (the complex mixture includes both organic and inorganic particles, such as dust, pollen, soot, smoke, and liquid droplets in air). The overall focus of the project will be to identify and to evaluate the real time accurate saturation of these major pollutants present in the atmosphere.
 The proposed system would focus on the following harmful pollutants emitted into the atmosphere by different activities are:
 1. Carbon Monoxide (MQ-7)
-2. Carbon dioxide (MG811 Sensor Module)
-3. Sulphur Dioxide (2SH12 Sensor Module)
-4. Nitrogen Dioxide (MICS-6814)
-5. NH3 Gas Sensor Module (MQ137)
-6. Ozone Gas Sensor MQ131
-7. Air Quality Sensor MQ2
-8. Particulate Matter (SDS011 or PMS5003 or DSM501A)
+2. Sulphur Dioxide (2SH12 Sensor Module)
+3. Nitrogen Dioxide (MICS-6814)
+4. NH3 Gas Sensor Module (MQ137)
+5. Ozone Gas Sensor MQ131
+6. Air Quality Sensor MQ2
+7. Particulate Matter (SDS011 or PMS5003 or DSM501A)
 Along with:
-9. Temperature (SHT11 or DHT22)
-10. Humidity (SHT11 or DHT22)
+8. Temperature (SHT11 or DHT22)
+9. Humidity (SHT11 or DHT22)
 
 ..........................................................................Work Done Till Now.....................................................................................
 
