@@ -1,0 +1,6 @@
+Use Arduino Board to interface the sensors at initial level.
+Search for interfacing of all filtered out sensors with Arduino Board.
+Try to Interface sensors one by one with Arduino Board.
+Understand program code line by line and comment on each line of the code.
+Interface DHT11 (Temperature and Humidity) Sensor with Arduino.
+Get sensor data at different environment conditions to check the accuracy and sensing capability of your sensor. 
