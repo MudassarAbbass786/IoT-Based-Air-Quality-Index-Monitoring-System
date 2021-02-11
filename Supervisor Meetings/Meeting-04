@@ -1,0 +1,5 @@
+Develop a mobile application and visualize real time sensor's data on the app.
+Interface DSM501A (PM2.5 and PM1.0) sensor with WeMOS.
+Visualize PM2.5 and PM1.0 concentration on the ThingSpeak.
+Record the readings of PM2.5 and PM1.0 for 24 hours putting sensor on the roof of Hostel in an Excel sheet.
+Try to find out Air Quality Index of your PM2.5 and PM1.0 readings and compare with AQI of Lahore Air from twitter.
