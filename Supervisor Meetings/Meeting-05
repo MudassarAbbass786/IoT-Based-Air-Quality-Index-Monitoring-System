@@ -1,0 +1,4 @@
+Interface MQ7 (CO) sensor with WeMOS.
+Show concentration of Carbon Monoxide on the ThingSpeak.
+Compare readings of your all sensors with slandered limits.
+Define the Air Quality with AQI Table.
