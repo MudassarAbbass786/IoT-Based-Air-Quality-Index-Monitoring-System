@@ -46,7 +46,7 @@ The Arduino Code Also Has Been Given With Filename “MQ7Code”.
 The Results Are Also Shown On The Serial Monitor With Filename “ResultsMQ7”.
 
 No.3:
-****************************************************************** DSM501A( PM1.0 & PM2.5) **************************************************************************************
+****************************************************************** DSM501A( PM10 & PM2.5) **************************************************************************************
 
 The Circuit Diagram Has Been Given In The Above Section With Filename “CircuitDiagramDSM501A”.
 The Hardware Demo Has Been Given In The Above Section With Filename “HardwareDSM501A”.
