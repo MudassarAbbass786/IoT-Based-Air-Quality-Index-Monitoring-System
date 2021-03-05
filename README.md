@@ -25,12 +25,12 @@ Along with:
 8. Temperature (SHT11 or DHT22)
 9. Humidity (SHT11 or DHT22)
 
-..........................................................................Work Done Till Now.....................................................................................
+..........................................................................Work Done Till Now...................................................................................
 
 Following Are The  Sensors That Has Been Interfaced With Arduino/WeMOS Ssuccessfully Up Till Now To Collect The Data From The Environment For Further Analysis:
 
 No.1:
-************************************************************** DHT11(Temperature & Humidity Sensor) *****************************************************************************
+************************************************************** DHT11(Temperature & Humidity Sensor) ****************************************************************************
 
 The Circuit Diagram Has Been Given In The Above Section With Filename “Wemosd1_DHT11_Schematic”.
 The Hardware Demo Has Been Given In The Above Section With Filename “HardwareDHT11”.
@@ -38,7 +38,7 @@ The Arduino Code Also Has Been Given With Filename “Runable_DHT11_Thinkspeak�
 The Results Are Also Shown On The ThingSpeak Platform With Filename “DHT11_Results”.
 
 No.2:
-****************************************************************** MQ-7( Carbon Monoxide) ***************************************************************************************
+****************************************************************** MQ-7( Carbon Monoxide) **************************************************************************************
 
 The Circuit Diagram Has Been Given In The Above Section With Filename “CircuitDiagramMQ7”.
 The Hardware Demo Has Been Given In The Above Section With Filename “HardwareMQ7”.
@@ -46,7 +46,7 @@ The Arduino Code Also Has Been Given With Filename “MQ7Code”.
 The Results Are Also Shown On The Serial Monitor With Filename “ResultsMQ7”.
 
 No.3:
-****************************************************************** DSM501A( PM10 & PM2.5) **************************************************************************************
+****************************************************************** DSM501A( PM10 & PM2.5) *************************************************************************************
 
 The Circuit Diagram Has Been Given In The Above Section With Filename “CircuitDiagramDSM501A”.
 The Hardware Demo Has Been Given In The Above Section With Filename “HardwareDSM501A”.
